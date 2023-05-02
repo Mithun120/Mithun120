@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">Web Developer</h3>
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24090007">
 - 🔭 I’m currently working on [Company Portfolio](https://github.com/Mithun120/Consultancy)
+
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://mithun20.onrender.com/](https://mithun20.onrender.com/)
 
