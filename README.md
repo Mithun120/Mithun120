@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24090007">
+<div class="tenor-gif-embed" data-postid="24090007" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-24090007">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 🔭 I’m currently working on [Company Portfolio](https://github.com/Mithun120/Consultancy)
 
 - 🌱 I’m currently learning **MERN Stack**
