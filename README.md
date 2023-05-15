@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento_still_2x.gif%3Fcompress%3D1%26resize%3D400x300&tbnid=8XkhQxcDyZ0PpM&vet=12ahUKEwiQgIaypdb-AhV47nMBHUXwCFQQMygCegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoding-gif&docid=mH7vmCH3UZgGiM&w=400&h=300&itg=1&q=animated%20coding%20gif&hl=en&ved=2ahUKEwiQgIaypdb-AhV47nMBHUXwCFQQMygCegUIARDNAQ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+
 - 🔭 I’m currently working on [Company Portfolio](https://github.com/Mithun120/Consultancy)
 
 - 🌱 I’m currently learning **Graph Ql**
