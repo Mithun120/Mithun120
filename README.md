@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Company Portfolio](https://github.com/Mithun120/Consultancy)
 
-- 🌱 I’m currently learning **Graph Ql**
+- 🌱 I’m currently learning **OOPS**
 
 - 👨‍💻 All of my projects are available at [https://mithun20.onrender.com/](https://mithun20.onrender.com/)
 
